@@ -1,0 +1,20 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "username": "bhavyag_s5W0qT",
+  "access_key": "xHcn2eY8LwpTAtu5pLDn",
+
+  "capabilities": {
+    "project": "Appium project",
+    "build": "bhavya build ",
+    "name": "bhavya buils",
+    "browserstack.debug": true,
+    "app": "bs://ee406845cdcd72ae4b97478917fea94bd5a11210"
+  },
+
+  "environments": [
+    { 
+      "device": "Galaxy Note 10+",
+      "os_version": "9.0"
+    }
+  ]
+}
